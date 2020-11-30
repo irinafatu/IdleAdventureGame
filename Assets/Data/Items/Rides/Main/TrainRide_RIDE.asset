@@ -1,0 +1,39 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 63def87ff11b89e4abbb0fbd6d64ad67, type: 3}
+  m_Name: TrainRide_RIDE
+  m_EditorClassIdentifier: 
+  name: TRAIN_RIDE
+  icon: {fileID: 1404139540836712763, guid: 4098df0efa796fd44b1ed6b5597e97c1, type: 3}
+  atractionType: 0
+  state: 1
+  upgradeStepList: []
+  count: 0
+  description: TRAIN_RIDE_DESCRIPTION
+  unlockConditionList:
+  - unlockConditionType: 20
+    unlockConditionValue:
+      guidData: {fileID: 11400000, guid: b5a375e7b1eedbd47b71992a15f2003c, type: 2}
+      guidCount: 400
+      currencyAmount:
+        type: 0
+        amount: 0
+      fameLevel: 0
+  category: 0
+  initialCost:
+    type: 0
+    amount: 2000
+  initialProfits:
+  - type: 0
+    amount: 100
+  profits: []
+  fillTimeSeconds: 120

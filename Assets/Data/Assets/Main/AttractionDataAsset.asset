@@ -1,0 +1,52 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a3ffc95daf1b85e429ccbf32d8f7b4b4, type: 3}
+  m_Name: AttractionDataAsset
+  m_EditorClassIdentifier: 
+  currentEvent: 0
+  attractionsDataAsset:
+  - gameEventType: 0
+    rideData:
+    - {fileID: 11400000, guid: 1a26134da1ac4f24da1b6d0737fbc103, type: 2}
+    - {fileID: 11400000, guid: f05834555b067b842876565ee00a2ec2, type: 2}
+    - {fileID: 11400000, guid: b483d2bfff798ca4c8219df136d132f6, type: 2}
+    - {fileID: 11400000, guid: 22585f7d8cb9fa7419ac25b934c1a2dd, type: 2}
+    - {fileID: 11400000, guid: db4b75dbdeb2aef49939b662a2fd5a67, type: 2}
+    - {fileID: 11400000, guid: c5ad65e83cf00304d866aa43ac1c72c5, type: 2}
+    - {fileID: 11400000, guid: 30d9b1f8df650d540888da27bcbc115e, type: 2}
+    - {fileID: 11400000, guid: f729b54b7f2aec14bbf7d9dd88efb688, type: 2}
+    - {fileID: 11400000, guid: b5a375e7b1eedbd47b71992a15f2003c, type: 2}
+    - {fileID: 11400000, guid: d8e942fa956673f4aaaba0c0cf5113d9, type: 2}
+    foodAndBeverageData:
+    - {fileID: 11400000, guid: 1a500220182de4541b09b2c9f8023e0e, type: 2}
+    - {fileID: 11400000, guid: fef0180b8e8033742a7a715ab13d9157, type: 2}
+    - {fileID: 11400000, guid: 3580cb790d94ab94fa02cc5ddc17c353, type: 2}
+    - {fileID: 11400000, guid: 0d8a8b7d6e1a89043ba60ffd75e84cdf, type: 2}
+    - {fileID: 11400000, guid: 59ee2bb10050e6f47ae8a1cde8deb83d, type: 2}
+    - {fileID: 11400000, guid: 483170e2f504a984aafa8bf5fd0b7908, type: 2}
+    - {fileID: 11400000, guid: 8c3fcf11bbbb957499d657bc79c60301, type: 2}
+    - {fileID: 11400000, guid: 54fe44c4cc709274180da2c44c942be6, type: 2}
+    - {fileID: 11400000, guid: 9708e60cf6467c84684b732eb0fd86cc, type: 2}
+    - {fileID: 11400000, guid: 7ac1a4b8c2f1c0848a16f5e2c977223e, type: 2}
+    - {fileID: 11400000, guid: 3f2c9516c62cbd749ad72f4ad1937ddc, type: 2}
+    - {fileID: 11400000, guid: 20b79b179a866d34987289544e32933b, type: 2}
+    recreationAreaData:
+    - {fileID: 11400000, guid: 1bf6fcd9ebe864946a075260ce5745d8, type: 2}
+    - {fileID: 11400000, guid: e6236e1f2ff8a64488b474e679228186, type: 2}
+    - {fileID: 11400000, guid: 4d191a68e03243346a8f53521a6ca572, type: 2}
+    - {fileID: 11400000, guid: 63838353006340c40bc2258259186b35, type: 2}
+    - {fileID: 11400000, guid: 111fb5e53ae203741ab61e87bb801204, type: 2}
+    - {fileID: 11400000, guid: e7d033411ad982d41b8e1d0ea0cbceae, type: 2}
+    - {fileID: 11400000, guid: 368f9ce5c7569094db5f5af2f0b8870b, type: 2}
+    - {fileID: 11400000, guid: 98a8fcabbe37da64aa73a9688de95627, type: 2}
+    - {fileID: 11400000, guid: e58122f0e0119a6449584cf3884f0f80, type: 2}
+    - {fileID: 11400000, guid: 7f0f7282730c3a84eabcd38d64c8fde5, type: 2}

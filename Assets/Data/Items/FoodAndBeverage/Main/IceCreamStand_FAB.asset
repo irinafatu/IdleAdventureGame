@@ -1,0 +1,57 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b549793444f9b544083fd389aa7de0ba, type: 3}
+  m_Name: IceCreamStand_FAB
+  m_EditorClassIdentifier: 
+  name: ICE_CREAM
+  icon: {fileID: 8514662129791548150, guid: f7413570dd8d5944fbfef8337bfe43d3, type: 3}
+  atractionType: 1
+  state: 2
+  upgradeStepList: []
+  count: 0
+  description: ICE_CREAM_DESCRIPTION
+  unlockConditionList:
+  - unlockConditionType: 20
+    unlockConditionValue:
+      guidData: {fileID: 11400000, guid: 9708e60cf6467c84684b732eb0fd86cc, type: 2}
+      guidCount: 1000
+      currencyAmount:
+        type: 0
+        amount: 0
+      fameLevel: 0
+  - unlockConditionType: 10
+    unlockConditionValue:
+      guidData: {fileID: 0}
+      guidCount: 0
+      currencyAmount:
+        type: 10
+        amount: 5000
+      fameLevel: 0
+  - unlockConditionType: 30
+    unlockConditionValue:
+      guidData: {fileID: 0}
+      guidCount: 0
+      currencyAmount:
+        type: 0
+        amount: 0
+      fameLevel: 15
+  category: 0
+  initialCost:
+    type: 10
+    amount: 200
+  initialProfits:
+  - type: 0
+    amount: 40
+  - type: 10
+    amount: 5
+  profits: []
+  fillTimeSeconds: 10

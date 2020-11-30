@@ -1,0 +1,41 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b549793444f9b544083fd389aa7de0ba, type: 3}
+  m_Name: DonutStand_FAB
+  m_EditorClassIdentifier: 
+  name: DONUT_STAND
+  icon: {fileID: -1939412628475373157, guid: 2b9623047887c1f4a9f2137e966a5717, type: 3}
+  atractionType: 1
+  state: 1
+  upgradeStepList: []
+  count: 0
+  description: DONUT_STAND_DESCRIPTION
+  unlockConditionList:
+  - unlockConditionType: 20
+    unlockConditionValue:
+      guidData: {fileID: 11400000, guid: 3580cb790d94ab94fa02cc5ddc17c353, type: 2}
+      guidCount: 100
+      currencyAmount:
+        type: 0
+        amount: 0
+      fameLevel: 0
+  category: 0
+  initialCost:
+    type: 10
+    amount: 150
+  initialProfits:
+  - type: 0
+    amount: 35
+  - type: 10
+    amount: 10
+  profits: []
+  fillTimeSeconds: 40

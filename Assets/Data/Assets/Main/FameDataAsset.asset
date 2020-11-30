@@ -1,0 +1,55 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7977625e8e79c5a44a29535c799cc087, type: 3}
+  m_Name: FameDataAsset
+  m_EditorClassIdentifier: 
+  fameLevels:
+  - fameLevel: 1
+    experiencePoints: 500
+  - fameLevel: 2
+    experiencePoints: 1500
+  - fameLevel: 3
+    experiencePoints: 3000
+  - fameLevel: 4
+    experiencePoints: 6000
+  - fameLevel: 5
+    experiencePoints: 12000
+  - fameLevel: 6
+    experiencePoints: 24000
+  - fameLevel: 7
+    experiencePoints: 48000
+  - fameLevel: 8
+    experiencePoints: 80000
+  - fameLevel: 9
+    experiencePoints: 150000
+  - fameLevel: 10
+    experiencePoints: 300000
+  - fameLevel: 11
+    experiencePoints: 1000000
+  - fameLevel: 12
+    experiencePoints: 5000000
+  - fameLevel: 13
+    experiencePoints: 14000000
+  - fameLevel: 14
+    experiencePoints: 25000000
+  - fameLevel: 15
+    experiencePoints: 40000000
+  - fameLevel: 16
+    experiencePoints: 60000000
+  - fameLevel: 17
+    experiencePoints: 100000000
+  - fameLevel: 18
+    experiencePoints: 180000000
+  - fameLevel: 19
+    experiencePoints: 250000000
+  - fameLevel: 20
+    experiencePoints: 350000000

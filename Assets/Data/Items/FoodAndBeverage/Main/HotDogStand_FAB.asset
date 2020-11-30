@@ -1,0 +1,41 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b549793444f9b544083fd389aa7de0ba, type: 3}
+  m_Name: HotDogStand_FAB
+  m_EditorClassIdentifier: 
+  name: HOT_DOG
+  icon: {fileID: -6428531975899570503, guid: f7413570dd8d5944fbfef8337bfe43d3, type: 3}
+  atractionType: 1
+  state: 1
+  upgradeStepList: []
+  count: 0
+  description: HOT_DOG_DESCRIPTION
+  unlockConditionList:
+  - unlockConditionType: 20
+    unlockConditionValue:
+      guidData: {fileID: 11400000, guid: 54fe44c4cc709274180da2c44c942be6, type: 2}
+      guidCount: 500
+      currencyAmount:
+        type: 0
+        amount: 0
+      fameLevel: 0
+  category: 0
+  initialCost:
+    type: 10
+    amount: 120
+  initialProfits:
+  - type: 0
+    amount: 15
+  - type: 10
+    amount: 2
+  profits: []
+  fillTimeSeconds: 20

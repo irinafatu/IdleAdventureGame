@@ -1,0 +1,49 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b549793444f9b544083fd389aa7de0ba, type: 3}
+  m_Name: CandyFactory_FAB
+  m_EditorClassIdentifier: 
+  name: CANDY_FACTORY
+  icon: {fileID: -6636432888808813283, guid: f7413570dd8d5944fbfef8337bfe43d3, type: 3}
+  atractionType: 1
+  state: 1
+  upgradeStepList: []
+  count: 0
+  description: CANDY_FACTORY_DESCRIPTION
+  unlockConditionList:
+  - unlockConditionType: 20
+    unlockConditionValue:
+      guidData: {fileID: 11400000, guid: 59ee2bb10050e6f47ae8a1cde8deb83d, type: 2}
+      guidCount: 150
+      currencyAmount:
+        type: 0
+        amount: 0
+      fameLevel: 0
+  - unlockConditionType: 10
+    unlockConditionValue:
+      guidData: {fileID: 0}
+      guidCount: 0
+      currencyAmount:
+        type: 10
+        amount: 2000
+      fameLevel: 0
+  category: 0
+  initialCost:
+    type: 10
+    amount: 150
+  initialProfits:
+  - type: 0
+    amount: 25
+  - type: 10
+    amount: 2
+  profits: []
+  fillTimeSeconds: 15

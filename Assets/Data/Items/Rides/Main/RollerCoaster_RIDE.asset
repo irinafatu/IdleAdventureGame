@@ -1,0 +1,39 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 63def87ff11b89e4abbb0fbd6d64ad67, type: 3}
+  m_Name: RollerCoaster_RIDE
+  m_EditorClassIdentifier: 
+  name: ROLLER_COASTER
+  icon: {fileID: 9205492671715088560, guid: 4098df0efa796fd44b1ed6b5597e97c1, type: 3}
+  atractionType: 0
+  state: 1
+  upgradeStepList: []
+  count: 0
+  description: ROLLER_COASTER_DESCRIPTION
+  unlockConditionList:
+  - unlockConditionType: 20
+    unlockConditionValue:
+      guidData: {fileID: 11400000, guid: 30d9b1f8df650d540888da27bcbc115e, type: 2}
+      guidCount: 8000
+      currencyAmount:
+        type: 0
+        amount: 0
+      fameLevel: 0
+  category: 0
+  initialCost:
+    type: 0
+    amount: 500
+  initialProfits:
+  - type: 0
+    amount: 5
+  profits: []
+  fillTimeSeconds: 60

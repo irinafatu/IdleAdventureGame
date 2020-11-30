@@ -1,0 +1,47 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 63def87ff11b89e4abbb0fbd6d64ad67, type: 3}
+  m_Name: GoKart_RIDE
+  m_EditorClassIdentifier: 
+  name: GO_KART
+  icon: {fileID: -5150900600734408238, guid: 4098df0efa796fd44b1ed6b5597e97c1, type: 3}
+  atractionType: 0
+  state: 1
+  upgradeStepList: []
+  count: 0
+  description: GO_KART_DESCRIPTION
+  unlockConditionList:
+  - unlockConditionType: 10
+    unlockConditionValue:
+      guidData: {fileID: 0}
+      guidCount: 0
+      currencyAmount:
+        type: 0
+        amount: 300
+      fameLevel: 0
+  - unlockConditionType: 20
+    unlockConditionValue:
+      guidData: {fileID: 11400000, guid: b483d2bfff798ca4c8219df136d132f6, type: 2}
+      guidCount: 100
+      currencyAmount:
+        type: 0
+        amount: 0
+      fameLevel: 0
+  category: 0
+  initialCost:
+    type: 0
+    amount: 500
+  initialProfits:
+  - type: 0
+    amount: 3
+  profits: []
+  fillTimeSeconds: 30

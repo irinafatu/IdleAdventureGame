@@ -1,0 +1,62 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 40a78e486237f5240963a4d637d9f31a, type: 3}
+  m_Name: UserInventory_DEBUG
+  m_EditorClassIdentifier: 
+  spendCurrencyEvent:
+    m_PersistentCalls:
+      m_Calls: []
+  addCurrencyEvent:
+    m_PersistentCalls:
+      m_Calls: []
+  currenciesDataList:
+  - type: 0
+    amount: 500
+  - type: 10
+    amount: 343
+  productDataList:
+  - guidString: fd2d4b47-b928-47d4-a8de-c86a9097ab75
+    type: 0
+    count: 1
+    level: 1
+  - guidString: c077e307-0820-4427-9606-c3205a8bf8b6
+    type: 1
+    count: 1
+    level: 1
+  - guidString: 6282e949-d9b3-4d7e-920b-829c2fa02e3e
+    type: 2
+    count: 1
+    level: 1
+  - guidString: f4cbcb30-fe35-4cb7-af6f-182b8a442020
+    type: 0
+    count: 0
+    level: 1
+  - guidString: 0d1dff90-0764-43ef-8d27-22c011ebbe23
+    type: 1
+    count: 0
+    level: 1
+  - guidString: 3283d8cd-0ae1-415c-996b-e2c3b9c997c7
+    type: 2
+    count: 0
+    level: 1
+  - guidString: 9af2f1b7-6654-49dc-bc70-92c3b6714f5b
+    type: 0
+    count: 0
+    level: 1
+  - guidString: 421f8c63-c93f-45b6-8f2c-71fd406029a0
+    type: 1
+    count: 0
+    level: 1
+  - guidString: 93867017-afcc-490a-8a09-d7a4709f5fd5
+    type: 2
+    count: 0
+    level: 1

@@ -1,0 +1,55 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 63def87ff11b89e4abbb0fbd6d64ad67, type: 3}
+  m_Name: SplashMountain_RIDE
+  m_EditorClassIdentifier: 
+  name: SPLASH_MOUNTAIN
+  icon: {fileID: 5358571500471489076, guid: 4098df0efa796fd44b1ed6b5597e97c1, type: 3}
+  atractionType: 0
+  state: 1
+  upgradeStepList: []
+  count: 0
+  description: SPLASH_MOUNTAIN_DESCRIPTION
+  unlockConditionList:
+  - unlockConditionType: 10
+    unlockConditionValue:
+      guidData: {fileID: 0}
+      guidCount: 0
+      currencyAmount:
+        type: 0
+        amount: 30000
+      fameLevel: 0
+  - unlockConditionType: 30
+    unlockConditionValue:
+      guidData: {fileID: 0}
+      guidCount: 0
+      currencyAmount:
+        type: 0
+        amount: 0
+      fameLevel: 11
+  - unlockConditionType: 20
+    unlockConditionValue:
+      guidData: {fileID: 11400000, guid: f729b54b7f2aec14bbf7d9dd88efb688, type: 2}
+      guidCount: 1
+      currencyAmount:
+        type: 0
+        amount: 0
+      fameLevel: 11
+  category: 0
+  initialCost:
+    type: 0
+    amount: 1000
+  initialProfits:
+  - type: 0
+    amount: 60
+  profits: []
+  fillTimeSeconds: 50

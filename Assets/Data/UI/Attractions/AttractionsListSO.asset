@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 20c160c2817967a4e893bffa4092ac8d, type: 3}
+  m_Name: AttractionsListSO
+  m_EditorClassIdentifier: 
+  listData:
+  - type: 0
+    prefab: {fileID: 2519285143953065209, guid: 1aec1cd0882d66243a7df66737b20937, type: 3}
+  - type: 1
+    prefab: {fileID: 5715807073634321533, guid: 7b56b7982eeb7d442a173c51ffcfe302, type: 3}
+  - type: 2
+    prefab: {fileID: 5568570343451936174, guid: ed9781bc90a0fef49b62022b20660409, type: 3}

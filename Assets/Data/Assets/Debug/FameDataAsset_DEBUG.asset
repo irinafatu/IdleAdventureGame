@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7977625e8e79c5a44a29535c799cc087, type: 3}
+  m_Name: FameDataAsset_DEBUG
+  m_EditorClassIdentifier: 
+  fameLevels:
+  - fameLevel: 1
+    experiencePoints: 500
+  - fameLevel: 2
+    experiencePoints: 1500
+  - fameLevel: 3
+    experiencePoints: 3000
+  - fameLevel: 4
+    experiencePoints: 6000

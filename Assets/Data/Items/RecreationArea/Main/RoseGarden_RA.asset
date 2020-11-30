@@ -1,0 +1,42 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7b8fdab5a2e4ef346a056778fda4346b, type: 3}
+  m_Name: RoseGarden_RA
+  m_EditorClassIdentifier: 
+  name: ROSE_GARDEN
+  icon: {fileID: -2138040130715381558, guid: e7d9fddd9dc73884db63169192670dbd, type: 3}
+  atractionType: 0
+  state: 0
+  upgradeStepList: []
+  count: 0
+  description: ROSE_GARDEN_DESCRIPTION
+  unlockConditionList:
+  - unlockConditionType: 20
+    unlockConditionValue:
+      guidData: {fileID: 11400000, guid: e7d033411ad982d41b8e1d0ea0cbceae, type: 2}
+      guidCount: 100
+      currencyAmount:
+        type: 0
+        amount: 0
+      fameLevel: 0
+  - unlockConditionType: 10
+    unlockConditionValue:
+      guidData: {fileID: 0}
+      guidCount: 0
+      currencyAmount:
+        type: 0
+        amount: 600000
+      fameLevel: 0
+  initialCost:
+    type: 0
+    amount: 600000
+  perkType: 0

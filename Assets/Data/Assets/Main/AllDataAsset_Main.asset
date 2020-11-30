@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: cc0e31338c35692408613bc170a29c96, type: 3}
+  m_Name: AllDataAsset_Main
+  m_EditorClassIdentifier: 
+  attractionsSO: {fileID: 11400000, guid: 2c49e99c48ac92447862bb666551679e, type: 2}
+  fameSO: {fileID: 11400000, guid: 0485863da8e40674192173a6e95276af, type: 2}
+  gameSO: {fileID: 11400000, guid: 8a32f82bc07ac2344bacb9b54f09f979, type: 2}
+  userInventorySO: {fileID: 11400000, guid: 9286c0b7b0dfcee479171c3e8ab2b64b, type: 2}

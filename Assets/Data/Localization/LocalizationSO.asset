@@ -1,0 +1,495 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 74794a39ac181874197af0fe55000218, type: 3}
+  m_Name: LocalizationSO
+  m_EditorClassIdentifier: 
+  listData:
+  - key: TAP_TO_CONTINUE
+    value:
+    - language: 0
+      text: TAP TO CONTINUE
+    - language: 1
+      text: START
+  - key: RIDES
+    value:
+    - language: 0
+      text: Rides
+    - language: 1
+      text: Atractii
+  - key: FOOD_AND_BEVERAGE
+    value:
+    - language: 0
+      text: Food & Beverage
+    - language: 1
+      text: Mancare
+  - key: RECREATION_AREA
+    value:
+    - language: 0
+      text: Recreation Area
+    - language: 1
+      text: Zona de relaxare
+  - key: BUY
+    value:
+    - language: 0
+      text: BUY
+    - language: 1
+      text: CUMPARA
+  - key: UPGRADE
+    value:
+    - language: 0
+      text: UPGRADE
+    - language: 1
+      text: UPGRADEAZA
+  - key: ORANGE_JUICE_CART
+    value:
+    - language: 0
+      text: Orange Juice Cart
+    - language: 1
+      text: Orange Juice Cart
+  - key: ORANGE_JUICE_CART_DESCRIPTION
+    value:
+    - language: 0
+      text: Cold and sweet. Orange as usual.
+    - language: 1
+      text: Cold and sweet. Orange as usual.
+  - key: POPCORN_STAND
+    value:
+    - language: 0
+      text: Popcorn Stand
+    - language: 1
+      text: Popcorn Stand
+  - key: POPCORN_STAND_DESCRIPTION
+    value:
+    - language: 0
+      text: Have a break and eat sweet popcorn.
+    - language: 1
+      text: Have a break and eat sweet popcorn.
+  - key: TREE
+    value:
+    - language: 0
+      text: Tree
+    - language: 1
+      text: Tree
+  - key: TREE_DESCRIPTION
+    value:
+    - language: 0
+      text: Go GREEN!
+    - language: 1
+      text: Go GREEN!
+  - key: TULIP
+    value:
+    - language: 0
+      text: Tulip
+    - language: 1
+      text: Tulip
+  - key: TULIP_DESCRIPTION
+    value:
+    - language: 0
+      text: Beautiful flowers are always here.
+    - language: 1
+      text: Beautiful flowers are always here.
+  - key: FERRIS_WHEEL
+    value:
+    - language: 0
+      text: Ferris Wheel
+    - language: 1
+      text: Ferris Wheel
+  - key: FERRIS_WHEEL_DESCRIPTION
+    value:
+    - language: 0
+      text: Not so tall Ferris Wheel.
+    - language: 1
+      text: Not so tall Ferris Wheel.
+  - key: CAROUSEL
+    value:
+    - language: 0
+      text: Carousel
+    - language: 1
+      text: Carousel
+  - key: CAROUSEL_DESCRIPTION
+    value:
+    - language: 0
+      text: Plane, Simple, Yellow. Very Yellow.
+    - language: 1
+      text: Plane, Simple, Yellow. Very Yellow.
+  - key: EXIT_GAME
+    value:
+    - language: 0
+      text: Are you sure you want to exit?
+    - language: 1
+      text: Esti sigur ca vrei sa inchizi jocul?
+  - key: YES
+    value:
+    - language: 0
+      text: YES
+    - language: 1
+      text: DA
+  - key: NO
+    value:
+    - language: 0
+      text: NO
+    - language: 1
+      text: NU
+  - key: CANDY_FACTORY
+    value:
+    - language: 0
+      text: Candy Factory
+    - language: 1
+      text: Bomboane
+  - key: CANDY_FACTORY_DESCRIPTION
+    value:
+    - language: 0
+      text: A candy a day keeps life sweeeet!
+    - language: 1
+      text: O bomboana pe zi mentine viata dulceeee!
+  - key: COFFEE_SHOP
+    value:
+    - language: 0
+      text: Coffee Shop
+    - language: 1
+      text: Cafea
+  - key: COFFEE_SHOP_DESCRIPTION
+    value:
+    - language: 0
+      text: 'Good morning sunshine! '
+    - language: 1
+      text: Buna dimineata soare!
+  - key: COTTON_CANDY
+    value:
+    - language: 0
+      text: Cotton Candy
+    - language: 1
+      text: Vata de zahar
+  - key: COTTON_CANDY_DESCRIPTION
+    value:
+    - language: 0
+      text: Blue, Violet, Pink, all mine!
+    - language: 1
+      text: Albastra, Mova, Roza, toata pentru mine!
+  - key: DONUT_STAND
+    value:
+    - language: 0
+      text: Donut Stand
+    - language: 1
+      text: Gogosi
+  - key: DONUT_STAND_DESCRIPTION
+    value:
+    - language: 0
+      text: 'Bring them to me! '
+    - language: 1
+      text: Gogsele mititele, gogosele.
+  - key: FRENCH_FRIES
+    value:
+    - language: 0
+      text: French Fries
+    - language: 1
+      text: Cartofi prajiti
+  - key: FRENCH_FRIES_DESCRIPTION
+    value:
+    - language: 0
+      text: I never met a french I didn`t like.
+    - language: 1
+      text: Mmmm. Cei mai buni.
+  - key: HOT_DOG
+    value:
+    - language: 0
+      text: Hot Dog
+    - language: 1
+      text: Hot Dog
+  - key: HOT_DOG_DESCRIPTION
+    value:
+    - language: 0
+      text: Life is better with a hot dog.
+    - language: 1
+      text: Viaa e mai buna cu un hot dog.
+  - key: ICE_CREAM
+    value:
+    - language: 0
+      text: Ice Cream
+    - language: 1
+      text: Inghetata
+  - key: ICE_CREAM_DESCRIPTION
+    value:
+    - language: 0
+      text: Life is like an ice cream. Enjoy it before it melts.
+    - language: 1
+      text: Rauri de inghetata.
+  - key: PIZZA
+    value:
+    - language: 0
+      text: Pizza
+    - language: 1
+      text: Pizza
+  - key: PIZZA_DESCRIPTION
+    value:
+    - language: 0
+      text: It`s slice to meet you.
+    - language: 1
+      text: Sa mancacim!
+  - key: POPCORN_CART
+    value:
+    - language: 0
+      text: Popcorn Cart
+    - language: 1
+      text: Popcorn
+  - key: POPCORN_CART_DESCRIPTION
+    value:
+    - language: 0
+      text: Love is sharing your popcorn!
+    - language: 1
+      text: Yummmmi! Popcornul cu caramel e preferatul meu!
+  - key: SODA_STAND
+    value:
+    - language: 0
+      text: Soda Stand
+    - language: 1
+      text: Standul cu sucuri
+  - key: SODA_STAND_DESCRIPTION
+    value:
+    - language: 0
+      text: I soda think you are cute.
+    - language: 1
+      text: Sucul meu preferat se gaseste aici!
+  - key: BURGERS
+    value:
+    - language: 0
+      text: Burgers
+    - language: 1
+      text: Burgeri
+  - key: BURGERS_DESCRIPTION
+    value:
+    - language: 0
+      text: We go togheter like burger and fries.
+    - language: 1
+      text: Un burger va rog! Cu de toate!
+  - key: BUMPER_CARS
+    value:
+    - language: 0
+      text: Bumper cars
+    - language: 1
+      text: Masinute
+  - key: BUMPER_CARS_DESCRIPTION
+    value:
+    - language: 0
+      text: Smash it!
+    - language: 1
+      text: Ti-tiiiii! Pazea!
+  - key: GO_KART
+    value:
+    - language: 0
+      text: Go Kart
+    - language: 1
+      text: Go Kart
+  - key: GO_KART_DESCRIPTION
+    value:
+    - language: 0
+      text: Vuuum-vummmm! Speed!
+    - language: 1
+      text: Vuuuum-vuuuuum! Vitezaaaa!
+  - key: HAUNTED_HOUSE
+    value:
+    - language: 0
+      text: Haunted House
+    - language: 1
+      text: Casa Groazei
+  - key: HAUNTED_HOUSE_DESCRIPTION
+    value:
+    - language: 0
+      text: Sooo scary!
+    - language: 1
+      text: Vaaai! Ce m-am speriat!
+  - key: OCTOPUS_LORD
+    value:
+    - language: 0
+      text: Octopus Lord
+    - language: 1
+      text: Caracatita
+  - key: OCTOPUS_LORD_DESCRIPTION
+    value:
+    - language: 0
+      text: Let`s go hunt in the ocean!
+    - language: 1
+      text: Hai sa vanam in ocean!
+  - key: PIRATE_SHIP
+    value:
+    - language: 0
+      text: Pirate Ship
+    - language: 1
+      text: Corabia Piratilor
+  - key: PIRATE_SHIP_DESCRIPTION
+    value:
+    - language: 0
+      text: Ahoy! Sailors!
+    - language: 1
+      text: Ahoy! Marinari!
+  - key: ROLLER_COASTER
+    value:
+    - language: 0
+      text: Roller Coaster
+    - language: 1
+      text: Roller Coaster
+  - key: ROLLER_COASTER_DESCRIPTION
+    value:
+    - language: 0
+      text: Woooooow! This is AWESOME! One more time!
+    - language: 1
+      text: Woooooooow! Suuuuuper! Inca o data!
+  - key: SPLASH_MOUNTAIN
+    value:
+    - language: 0
+      text: Splash Mountain
+    - language: 1
+      text: Splash Mountain
+  - key: SPLASH_MOUNTAIN_DESCRIPTION
+    value:
+    - language: 0
+      text: Splash! Splash! This is a lot of fun!
+    - language: 1
+      text: Splash! Splash! Ce ma distrez!
+  - key: TRAIN_RIDE
+    value:
+    - language: 0
+      text: Train Ride
+    - language: 1
+      text: Trenulet
+  - key: TRAIN_RIDE_DESCRIPTION
+    value:
+    - language: 0
+      text: Ciu-ciuuuuuu! Here come the traain!
+    - language: 1
+      text: Ciu-ciuuuuuu! Vine trenuuuul!
+  - key: BENCH
+    value:
+    - language: 0
+      text: Bench
+    - language: 1
+      text: Banca
+  - key: BENCH_DESCRIPTION
+    value:
+    - language: 0
+      text: Relax! Take a break.
+    - language: 1
+      text: Relaxeaza-te! Ia o pauza.
+  - key: CLOWN
+    value:
+    - language: 0
+      text: Clown
+    - language: 1
+      text: Clovn
+  - key: CLOWN_DESCRIPTION
+    value:
+    - language: 0
+      text: Ha-ha-ha! What a funny little man!
+    - language: 1
+      text: Ha-ha-ha! Ce omulet haios!
+  - key: FOUNTAIN
+    value:
+    - language: 0
+      text: Fountain
+    - language: 1
+      text: Fantana
+  - key: FOUNTAIN_DESCRIPTION
+    value:
+    - language: 0
+      text: Beautiful landscape.
+    - language: 1
+      text: Peisaj frumos.
+  - key: GREEK_STATUE
+    value:
+    - language: 0
+      text: Greek Statue
+    - language: 1
+      text: Statui grecesti
+  - key: GREEK_STATUE_DESCRIPTION
+    value:
+    - language: 0
+      text: Smile!
+    - language: 1
+      text: Zambeste!
+  - key: MASSAGE
+    value:
+    - language: 0
+      text: Massage
+    - language: 1
+      text: Masaj
+  - key: MASSAGE_DESCRIPTION
+    value:
+    - language: 0
+      text: What a great recreation area!
+    - language: 1
+      text: Ce zona de relaxare!
+  - key: PLAYGROUND
+    value:
+    - language: 0
+      text: Playground
+    - language: 1
+      text: Loc de joaca
+  - key: PLAYGROUND_DESCRIPTION
+    value:
+    - language: 0
+      text: Fun for the kids and the adults.
+    - language: 1
+      text: Distractie si pentru copii si pentru adulti.
+  - key: ROSE_GARDEN
+    value:
+    - language: 0
+      text: Rose Garden
+    - language: 1
+      text: Gradina de trandafiri
+  - key: ROSE_GARDEN_DESCRIPTION
+    value:
+    - language: 0
+      text: Take a walk in this beautiful garden.
+    - language: 1
+      text: Fa o plimbare prin gradina de trandafiri.
+  - key: SANDPIT
+    value:
+    - language: 0
+      text: Sand Pit
+    - language: 1
+      text: Groapa de nisip
+  - key: SANDPIT_DESCRIPTION
+    value:
+    - language: 0
+      text: Sand in my shoes.
+    - language: 1
+      text: Hai la groapa cu nisip!
+  - key: TAP_TO_UNLOCK
+    value:
+    - language: 0
+      text: Tap to unlock!
+    - language: 1
+      text: Deblocheaza acum!
+  - key: UNLOCK_DETAILS
+    value:
+    - language: 0
+      text: Unlock details
+    - language: 1
+      text: Detalii deblocare
+  - key: UNLOCK_COST
+    value:
+    - language: 0
+      text: 'Unlock cost: '
+    - language: 1
+      text: 'Cost:'
+  - key: aa
+    value:
+    - language: 0
+      text: Tap to unlock!
+    - language: 1
+      text: Deblocheaza acum!
+  - key: cc
+    value:
+    - language: 0
+      text: Tap to unlock!
+    - language: 1
+      text: Deblocheaza acum!
